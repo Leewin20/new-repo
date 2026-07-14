@@ -1,3 +1,2 @@
 # new-repo
-create new repo
-new description
+my new description
